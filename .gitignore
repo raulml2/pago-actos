@@ -1,0 +1,38 @@
+# ======================
+# Entorno y secretos
+# ======================
+.env
+
+# Credenciales
+token_gmail.json
+credentials.json
+
+# ======================
+# Python
+# ======================
+__pycache__/
+.venv/
+venv/
+.pytest_cache/
+
+# ======================
+# Datos y outputs
+# ======================
+!data/.gitkeep
+
+# Ignorar archivos generados por el script
+data/**/*.pdf
+data/**/**.xlsx
+data/**/**.xlsm
+data/**/**.docx
+data/**/**.html
+data/**/*.txt
+
+# Templates
+src/assets/templates/Recibo_Template.docx
+
+# ======================
+# Legacy / basura
+# ======================
+old/
+downloaded_files/

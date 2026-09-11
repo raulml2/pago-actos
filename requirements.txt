@@ -1,0 +1,11 @@
+pandas
+numpy
+python-docx-template
+docx2pdf
+google-auth
+google-auth-oauthlib
+google-api-python-client
+openpyxl
+seleniumbase
+playwright
+python-dotenv

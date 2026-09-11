@@ -1,0 +1,1 @@
+La carpeta recibos contiene los archivos de recibos en formato PDFgenerados por el script de envío.

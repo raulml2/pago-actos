@@ -1,0 +1,38 @@
+# ======================
+# Normalización de finales de línea
+# ======================
+* text=auto
+
+# ======================
+# Código fuente
+# ======================
+*.py   text diff=python
+*.sh   text
+*.sql  text
+*.md   text
+*.yml  text
+*.yaml text
+*.toml text
+*.json text
+*.html text
+*.css  text
+
+# ======================
+# Notebooks
+# ======================
+*.ipynb text
+
+# ======================
+# Datos y binarios
+# ======================
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+
+# ======================
+# Office
+# ======================
+*.xlsx binary
+*.docx binary

@@ -1,0 +1,2 @@
+La carpeta private contiene los archivos privados que se usan en el proyecto. Especificamente contiene el archivo "CONTROL_ACTOS_2025.xlsm" que es 
+el archivo donde se gestiona y supervisa los actos realizados por los musicos asi como el importe de los mismos.

@@ -1,0 +1,1 @@
+La carpeta remesas contiene los archivos de remesas en formato Excel generados por el script de envío.

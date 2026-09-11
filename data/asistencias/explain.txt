@@ -1,0 +1,2 @@
+La carpeta asistencias contiene los archivos de asistencias generados por el script de descarga y extraidos o 
+descargados directamente de la app de Glissandoo.
