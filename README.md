@@ -1,4 +1,4 @@
-# 🎺 Sistema Automatizado de Gestión de Actos, Recibos y Remesas
+# 🎺 Sistema Automatizado de Gestión de Actos y Pagos
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/)
@@ -18,7 +18,7 @@ Solución integral de automatización desarrollada en **Python** para gestionar 
 Anteriormente, el flujo de trabajo dependía del ecosistema ofimático de Microsoft (**Excel, Word y Outlook**):
 
 - A pesar de contar con ciertas automatizaciones nativas (como combinación de correspondencia o macros), requería una **alta intervención manual repetitiva** en cada fase del ciclo.
-- Descargar acto por acto desde la plataforma de gestión web, volcar y casar los datos a mano en el Excel de control, generar los recibos en PDF con Word, gestionar envíos por correo y subir manualmente cada recibo a la plataforma de firma electrónica.
+- Descargar acto por acto desde la plataforma de gestión web, volcar y meter los datos a mano en el Excel de control, generar los recibos en PDF con Word, gestionar envíos por correo y subir manualmente cada recibo a la plataforma de firma electrónica.
 - El tiempo invertido por periodo de pago rondaba las **15-20 horas de trabajo administrativo (unas 4-5 tardes completas)**, con un alto riesgo de error humano por fatiga (cruces de datos, importes erróneos, envíos duplicados).
 
 ### La Solución Implementada

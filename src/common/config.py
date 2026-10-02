@@ -49,10 +49,10 @@ N_OTROS          = _e["N_OTROS"]
 # ==========================
 # FLAGS DE EJECUCIÓN (Cambiar a True para ejecutar)
 # ==========================
-CREAR_RECIBOS = False
+CREAR_RECIBOS = True
 GENERAR_CORREO_PREVIA = False
 ENVIAR_CORREOS = False
-GENERAR_REMESA = True
+GENERAR_REMESA = False
 MODO_TEST = False  # True: envía solo a GMAIL_FROM para verificar
 
 # Correos ya enviados en una ejecución anterior (se omiten en modo normal)

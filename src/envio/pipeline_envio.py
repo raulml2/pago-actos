@@ -125,7 +125,7 @@ def enviar_correos_gmail(tablas_por_email, musicos_por_email, test_only=None, em
 
                 emails.append({
                     "to": email,
-                    "subject": f"[CORRECCIÓN] Listado Actos {PAGO}",
+                    "subject": f"Listado Actos {PAGO}",
                     "html": cuerpo,
                     "attachments": []
                 })
